@@ -1,0 +1,5 @@
+F:\Algorithm\BucketSort\RotateMatrix\RotateMatrix\bin\Debug\RotateMatrix.exe.config
+F:\Algorithm\BucketSort\RotateMatrix\RotateMatrix\bin\Debug\RotateMatrix.exe
+F:\Algorithm\BucketSort\RotateMatrix\RotateMatrix\bin\Debug\RotateMatrix.pdb
+F:\Algorithm\BucketSort\RotateMatrix\RotateMatrix\obj\Debug\RotateMatrix.exe
+F:\Algorithm\BucketSort\RotateMatrix\RotateMatrix\obj\Debug\RotateMatrix.pdb
