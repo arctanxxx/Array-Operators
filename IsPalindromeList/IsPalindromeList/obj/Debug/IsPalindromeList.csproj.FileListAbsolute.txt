@@ -1,0 +1,6 @@
+F:\Algorithm\BucketSort\IsPalindromeList\IsPalindromeList\bin\Debug\IsPalindromeList.exe.config
+F:\Algorithm\BucketSort\IsPalindromeList\IsPalindromeList\bin\Debug\IsPalindromeList.exe
+F:\Algorithm\BucketSort\IsPalindromeList\IsPalindromeList\bin\Debug\IsPalindromeList.pdb
+F:\Algorithm\BucketSort\IsPalindromeList\IsPalindromeList\obj\Debug\IsPalindromeList.csprojResolveAssemblyReference.cache
+F:\Algorithm\BucketSort\IsPalindromeList\IsPalindromeList\obj\Debug\IsPalindromeList.exe
+F:\Algorithm\BucketSort\IsPalindromeList\IsPalindromeList\obj\Debug\IsPalindromeList.pdb
