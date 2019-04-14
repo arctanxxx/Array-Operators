@@ -1,0 +1,6 @@
+F:\Algorithm\BucketSort\PrintCommonPart\PrintCommonPart\bin\Debug\PrintCommonPart.exe.config
+F:\Algorithm\BucketSort\PrintCommonPart\PrintCommonPart\bin\Debug\PrintCommonPart.exe
+F:\Algorithm\BucketSort\PrintCommonPart\PrintCommonPart\bin\Debug\PrintCommonPart.pdb
+F:\Algorithm\BucketSort\PrintCommonPart\PrintCommonPart\obj\Debug\PrintCommonPart.csprojResolveAssemblyReference.cache
+F:\Algorithm\BucketSort\PrintCommonPart\PrintCommonPart\obj\Debug\PrintCommonPart.exe
+F:\Algorithm\BucketSort\PrintCommonPart\PrintCommonPart\obj\Debug\PrintCommonPart.pdb
