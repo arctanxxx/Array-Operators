@@ -1,0 +1,6 @@
+F:\Algorithm\BucketSort\printCircleMatrx\printCircleMatrx\obj\Debug\PrintMatrixSpiralOrder.csprojResolveAssemblyReference.cache
+F:\Algorithm\BucketSort\printCircleMatrx\printCircleMatrx\bin\Debug\printCircleMatrx.exe.config
+F:\Algorithm\BucketSort\printCircleMatrx\printCircleMatrx\bin\Debug\printCircleMatrx.exe
+F:\Algorithm\BucketSort\printCircleMatrx\printCircleMatrx\bin\Debug\printCircleMatrx.pdb
+F:\Algorithm\BucketSort\printCircleMatrx\printCircleMatrx\obj\Debug\printCircleMatrx.exe
+F:\Algorithm\BucketSort\printCircleMatrx\printCircleMatrx\obj\Debug\printCircleMatrx.pdb
