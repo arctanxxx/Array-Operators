@@ -1,0 +1,6 @@
+F:\Algorithm\BucketSort\ZigZagPrintMatrix\ZigZagPrintMatrix\bin\Debug\ZigZagPrintMatrix.exe.config
+F:\Algorithm\BucketSort\ZigZagPrintMatrix\ZigZagPrintMatrix\bin\Debug\ZigZagPrintMatrix.exe
+F:\Algorithm\BucketSort\ZigZagPrintMatrix\ZigZagPrintMatrix\bin\Debug\ZigZagPrintMatrix.pdb
+F:\Algorithm\BucketSort\ZigZagPrintMatrix\ZigZagPrintMatrix\obj\Debug\ZigZagPrintMatrix.csprojResolveAssemblyReference.cache
+F:\Algorithm\BucketSort\ZigZagPrintMatrix\ZigZagPrintMatrix\obj\Debug\ZigZagPrintMatrix.exe
+F:\Algorithm\BucketSort\ZigZagPrintMatrix\ZigZagPrintMatrix\obj\Debug\ZigZagPrintMatrix.pdb
