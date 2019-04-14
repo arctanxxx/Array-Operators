@@ -1,0 +1,5 @@
+F:\Algorithm\BucketSort\findNumberInSortedMatrix\findNumberInSortedMatrix\bin\Debug\findNumberInSortedMatrix.exe.config
+F:\Algorithm\BucketSort\findNumberInSortedMatrix\findNumberInSortedMatrix\bin\Debug\findNumberInSortedMatrix.exe
+F:\Algorithm\BucketSort\findNumberInSortedMatrix\findNumberInSortedMatrix\bin\Debug\findNumberInSortedMatrix.pdb
+F:\Algorithm\BucketSort\findNumberInSortedMatrix\findNumberInSortedMatrix\obj\Debug\findNumberInSortedMatrix.exe
+F:\Algorithm\BucketSort\findNumberInSortedMatrix\findNumberInSortedMatrix\obj\Debug\findNumberInSortedMatrix.pdb
